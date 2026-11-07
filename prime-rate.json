@@ -1,5 +1,5 @@
 {
-  "rate": 7.0,
-  "date": "2026-11-03",
-  "source": "WSJ prime rate (seed value); updated daily from Federal Reserve H.15 via FRED"
+  "rate": 7,
+  "date": "2026-10-27",
+  "source": "Federal Reserve H.15 bank prime loan rate via FRED (DPRIME)"
 }
